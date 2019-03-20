@@ -1,0 +1,22 @@
+.card {
+  width: 400px;
+  padding: 10px;
+}
+
+.card-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.time{
+  margin-top: 8px;
+}
+
+.item-color{
+  color: darkred;
+  font-size: 16pt;
+}
+
+.item-time {
+  font-size: 16pt;
+}
